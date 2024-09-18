@@ -4,4 +4,5 @@
 📚: master of computer science <br />
 💼: analytics technical specialist <br />
 🎯: learn new coding languages and complete projects! <br />
-🎾: video games, leetcode, hackathons
+🎾: video games, visual novels, ML, leetcode, hackathons <br />
+💖: the legend of zelda
